@@ -1,0 +1,4 @@
+servidor: cecati72.com.mx
+usuario: adminftp.cecati72.com.mx
+contraseña: avante71
+puerto: 21
